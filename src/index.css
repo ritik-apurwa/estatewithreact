@@ -74,3 +74,9 @@
       @apply bg-background text-foreground;
     }
   }
+
+  .custom-image-class {
+    /* Styles for the image */
+    width: 100%; /* or any desired width */
+    height: auto; /* or any desired height */
+  }
